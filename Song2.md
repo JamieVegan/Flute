@@ -1,0 +1,3 @@
+E A^ A^ E
+B^ B^ F
+C C G D D
